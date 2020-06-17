@@ -1,6 +1,6 @@
 import React from "react";
 
-import datas from "../../public/fakeData.json";
+import datas from "../fakeData.json";
 
 import Article from "../components/Article";
 import Model from "../components/Model";
